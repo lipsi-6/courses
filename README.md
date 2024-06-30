@@ -1,2 +1,2 @@
 # courses
-outlines and notes
+学习历程
